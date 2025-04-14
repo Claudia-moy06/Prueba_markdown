@@ -36,7 +36,7 @@
 
 ### Imagen
 
-![SuperMario](./Javascript) 
+![SuperMario](./supermario) 
 
 <!-- enlace de una imagen externa -->
 ![Sonic](https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png)
