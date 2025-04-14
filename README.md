@@ -33,3 +33,13 @@
 [Enlace a Aules](https://portal.edu.gva.es/aules/)
 
 [Enlace a Aules](https://portal.edu.gva.es/aules/ "Ir a AULES")
+
+### Imagen
+
+![SuperMario](./images/supermario.png) 
+
+<!-- enlace de una imagen externa -->
+![Sonic](https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png)
+
+<!-- usar HTML -->
+<img src="https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png" alt="Imagen" width="100"/>
